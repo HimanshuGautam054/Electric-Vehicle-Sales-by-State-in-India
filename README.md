@@ -12,6 +12,6 @@ Feature Engineering: Create new features from the date column and encode categor
 Modeling: Build a regression model to predict EV sales.
 Evaluation: Evaluate the model performance and interpret the results.
 Visualization: Visualize the results and trends using graphs and charts.
-![image](https://github.com/user-attachments/assets/29ee2467-d988-44dd-817f-4479cc49e6d3)
+
 
 
