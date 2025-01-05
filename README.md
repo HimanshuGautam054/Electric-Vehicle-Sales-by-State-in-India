@@ -20,5 +20,11 @@ Market segmentation becomes a crucial tool for evolving transportation technolog
 
 **Visualization:** Visualize the results and trends using graphs and charts.
 
+**Technologies Used:**
+Python, Numpy, Pandas, Matplotlib, Seaborn
+
+
+
+
 
 
