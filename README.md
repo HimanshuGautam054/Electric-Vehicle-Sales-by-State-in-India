@@ -27,6 +27,22 @@ Python, Numpy, Pandas, Matplotlib, Seaborn
 
 
 
+**Sample Insights:**
+
+Among all the years, 2023 recorded the highest number of sales of electric vehicle
+
+Among all the states, Utter Pradesh recorded the highest number of sales of electric vehicle
+
+The 2-Wheelers class has the highest number of sales
+
+Mostly electric vehicles were sold in the month of November
+
+Among the vehicle types, 56% of the market was captured by other vehicles right after 2W-Personal
+
+
+
+
+
 
 
 
