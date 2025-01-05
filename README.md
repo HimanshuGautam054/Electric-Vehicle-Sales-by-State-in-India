@@ -4,7 +4,7 @@ Hello, GitHub community, I am excited to share my Third Project as a Data Analys
 
 Market segmentation becomes a crucial tool for evolving transportation technology such as electric vehicles (EVs) in emerging markets to explore and implement for extensive adoption. EV adoption is expected to grow phenomenally shortly as low-emission and low-operating-cost cars, and thus, it drives a considerable amount of forthcoming academic research curiosity. The main aim of this study is to explore and identify distinct sets of potential buyer segments for EVs based on psychographic, behavioral, and socio-economic characterization by employing an integrated research framework of ‘perceived benefits-attitude-intention’.
 
-**Steps Involved:**
+🚀**Steps Involved:**
 
 **Data Collection:** Load and inspect the dataset.
 
@@ -22,12 +22,12 @@ Market segmentation becomes a crucial tool for evolving transportation technolog
 
 
 
-**Technologies Used:**
+📌**Technologies Used:**
 Python, Numpy, Pandas, Matplotlib, Seaborn
 
 
 
-**Sample Insights:**
+🔍**Sample Insights:**
 
 Among all the years, 2023 recorded the highest number of sales of electric vehicle
 
